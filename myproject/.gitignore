@@ -1,0 +1,17 @@
+# Ignore build output and temporary files
+target/
+bin/
+build/
+
+# Ignore IDE and editor-specific files
+.idea/
+.vscode/
+
+# Ignore system files and logs
+Thumbs.db
+.DS_Store
+*.log
+
+# Ignore sensitive or private files
+config.ini
+secrets.txt
